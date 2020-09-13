@@ -1,0 +1,2 @@
+rootProject.name='Voice_manager'
+include ':app'
